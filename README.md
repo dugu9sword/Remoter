@@ -1,11 +1,11 @@
 Remoter
 =
 For the 7th iShamrock software competition.
-It is just a "TOO YOUNG TOO SIMPLE SOMETIMS NAIVE" software.
+It is just a "TOO YOUNG TOO SIMPLE SOMETIMES NAIVE" software.
 
 Author
 =
-ZhouYi GuoYimin TianTianxing HeTiancheng Zhangcong
+ZhouYi GuoYimin TianTianxing HeTiancheng ZhangCong
 
 Function
 =
